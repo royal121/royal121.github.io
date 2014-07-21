@@ -8,7 +8,7 @@ permalink:        pretty
 # Setup
 title:            The Helpful Rabbit
 tagline:          'Personal blog of Vijay Nandwani'
-description:      'Blog posts by <a href="twitter.com/isthegeek">Vijay Nandwani</a>'
+description:      'Personal blog of <a href="https://twitter.com/isthegeek">Vijay Nandwani</a>'
 url:              http://twitter.com/isthegeek
 baseurl:          /
 
